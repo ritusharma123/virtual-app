@@ -1,0 +1,2 @@
+[{"id":1,"organizationId":2,"locationId":1,"name":"Gems-Bangalore"},{"id":2,"organizationId":3,"locationId":2,"name":"Clinic-Jp nagar,Bangalore"},{"id":3,"organizationId":4,"locationId":3,"name":"FITTO VP Clinic-Kolkata, Sarat Bose Road"},{"id":4,"organizationId":2,"locationId":4,"name":"Gems-Sarat Bose Road Kolkata"}]
+https://fittodemo.fitto-at.com/fitto-webservice/resource/appointment/getPractionersTypes
