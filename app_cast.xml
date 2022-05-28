@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>FITTO - Patient Application</title>
+        <item>
+            <title>Version 3.0.0</title>
+            <description>Major updates and improvements.</description>
+            <pubDate>Sun, 28 May 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.ambertag.fitto" sparkle:version="1.15.0" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
